@@ -10,7 +10,7 @@ public class ConstantsLogin{
     public static final String WRITE_EMAIL2 = "Teste@teste3.com";
     public static final String WRITE_PASS = "122345";
     public static final String BUTTON_CONTINUE_TEXT = "LOGIN";
-    public static final String MSG_ERRO_LOGIN = "Fields cannot be emptyy";
+    public static final String MSG_ERRO_LOGIN = "Fields cannot be empty";
 
 
 

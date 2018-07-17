@@ -53,16 +53,7 @@ public class LoginTelaNovo {
                 .sleep(5);
     }
 
-    @Test
-    public void LoginTesteErroSenha() throws InterruptedException {
 
-        new LoginRobotCursoExpresso()
-                .writePass()
-                .clckiLogin()
-                .checkFieldError()
-                .writePass()
-
-    }
 
 
 
