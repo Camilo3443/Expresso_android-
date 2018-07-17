@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EspressoAndroidTest-master-23432cd9858e87777205f6d96661b5af56ee0b53.iml" filepath="$PROJECT_DIR$/EspressoAndroidTest-master-23432cd9858e87777205f6d96661b5af56ee0b53.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
