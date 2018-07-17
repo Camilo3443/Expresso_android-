@@ -1,6 +1,19 @@
 # EspressoTests
 
-Esse projeto é para os analistas de Testes Utilizarem o Espresso Android Test.
+
+Tutorial de Instalação 
+
+
+
+
+
+
+
+
+
+
+
+
 
 License
 -------
